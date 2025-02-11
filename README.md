@@ -14,3 +14,5 @@
 # Curso de GitHub & GitHub
 
 Hola soy tu estudiante digital Juan Fernandez
+
+Estoy aprendiendo a utilizar gitHub, de manera eficiente
