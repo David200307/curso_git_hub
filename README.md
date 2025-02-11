@@ -10,3 +10,7 @@
 * Empuja los cambios locales al repositorio remoto
 ## Gitpull
 * Para descargar las ultimas actualizaciones del proyecto
+
+# Curso de GitHub & GitHub
+
+Hola soy tu estudiante digital Juan Fernandez
